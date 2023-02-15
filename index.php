@@ -8,5 +8,6 @@
     echo   $getPayment-> getPayment();
     $getMethods = new BuyProducs();
     echo $getMethods ->MessageShow();
+    echo " ;kldkjfh";
 
  ?>
